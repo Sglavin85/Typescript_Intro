@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "parcel-bundler": "1.9.4",
+    "parcel-plugin-typescript": "^1.0.0",
     "typescript": "^3.6.3"
   },
   "name": "typescript",

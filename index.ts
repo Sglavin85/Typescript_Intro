@@ -1,1 +1,1 @@
-console.log("hello world");
+const numOfPhones: never = 5;

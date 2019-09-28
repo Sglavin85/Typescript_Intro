@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":["numOfPhones"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAIA,cAAc,CAAlB","file":"typescript.e6746b00.map","sourceRoot":"..","sourcesContent":["var numOfPhones = 5;\n"]}
