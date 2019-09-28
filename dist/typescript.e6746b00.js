@@ -104,7 +104,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   // Override the current require with this new one
   return newRequire;
 })({4:[function(require,module,exports) {
-var numOfPhones = 5;
+
 },{}],6:[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -134,7 +134,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = '' || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + '59141' + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + '60891' + '/');
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);
 
@@ -276,4 +276,3 @@ function hmrAccept(bundle, id) {
   });
 }
 },{}]},{},[6,4], null)
-//# sourceMappingURL=/typescript.e6746b00.map
