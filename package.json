@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
