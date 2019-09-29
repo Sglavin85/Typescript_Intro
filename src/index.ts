@@ -1,4 +1,4 @@
-import { Person } from './src/interfaces'
+import { Person } from './interfaces'
 
 const sayName = ({ name, age }: Person): string => {
     console.log(name)
