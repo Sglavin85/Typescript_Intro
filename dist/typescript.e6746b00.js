@@ -104,7 +104,15 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   // Override the current require with this new one
   return newRequire;
 })({4:[function(require,module,exports) {
+"use strict";
 
+Object.defineProperty(exports, "__esModule", { value: true });
+var sayName = function sayName(_a) {
+    var name = _a.name,
+        age = _a.age;
+    console.log(name);
+    return name;
+};
 },{}],6:[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -276,3 +284,4 @@ function hmrAccept(bundle, id) {
   });
 }
 },{}]},{},[6,4], null)
+//# sourceMappingURL=/typescript.e6746b00.map
